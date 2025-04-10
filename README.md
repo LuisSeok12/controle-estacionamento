@@ -7,11 +7,7 @@ Este projeto é uma aplicação desenvolvida em Java que realiza o controle de e
 - [Características](#características)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação e Configuração](#instalação-e-configuração)
-- [Uso](#uso)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Capturas de Tela](#capturas-de-tela)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ## Características
 
